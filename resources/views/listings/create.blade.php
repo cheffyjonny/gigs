@@ -109,7 +109,7 @@
             </div>
 
             <div class="mb-6">
-                <button class="bg-laravel text-white rounded py-2 px-4 hover:bg-black">
+                <button class=" text-white rounded py-2 px-4 bg-pink-400 hover:bg-pink-500">
                     Create Gig
                 </button>
 
